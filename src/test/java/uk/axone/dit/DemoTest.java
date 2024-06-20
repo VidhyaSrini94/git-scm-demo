@@ -7,4 +7,11 @@ public class DemoTest {
     public void testMethod(){
         System.out.println("Test one");
     }
+
+    @Test
+    public void testMethodTwo(){
+        System.out.println("Test two");
+    }
+
+
 }
